@@ -13,12 +13,12 @@ Objective: Analyze sales data to identify trends, patterns, and areas for improv
 Technologies: Excel, Python (Numpy,Pandas, Matplotlib/Seaborn).
 Features: Data collection, cleaning, EDA, visualization, and reporting.
 
-**3. Customer Behaviour Analysis**
+**2. Customer Behaviour Analysis**
 Objective: Evaluate the Behaviour and Segmentation of Customers.
 Technologies: Google Analytics, Excel, Python (Numpy,Pandas, Matplotlib/Seaborn).
 Features: Data analytics, visualization, and insights generation.
 
-**2. Website Traffic Analysis**
+**3. Website Traffic Analysis**
 Objective: Evaluate the effectiveness of online marketing strategies.
 Technologies: Google Analytics, Excel, Python (Numpy,Pandas, Matplotlib/Seaborn).
 Features: Data analytics, visualization, and insights generation.
